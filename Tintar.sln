@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Moara", "Moara\Moara.vcxproj", "{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Debug|x64.ActiveCfg = Debug|x64
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Debug|x64.Build.0 = Debug|x64
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Debug|x86.Build.0 = Debug|Win32
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Release|x64.ActiveCfg = Release|x64
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Release|x64.Build.0 = Release|x64
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Release|x86.ActiveCfg = Release|Win32
+		{6CB9DA54-DCBE-400E-9D07-6563C6FE0A4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BAAF3F-5EB8-43EC-873E-C0B412649343}
+	EndGlobalSection
+EndGlobal
